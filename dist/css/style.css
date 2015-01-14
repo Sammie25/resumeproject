@@ -1,0 +1,82 @@
+html,body
+{
+    height:100%;
+    width: 100%;
+}
+.second p
+{
+	color:white;
+	font-weight:bold;
+	text-align:left;
+	font-size:20px;
+	position:absolute;
+	padding left:20px;
+	bottom:300px;
+    margin-top: 300px;
+	
+}
+.navbar-custom
+{
+    background-color: transparent;
+}
+.nav>li>a
+{
+    color:orange;
+}
+.navbar-default .navbar-brand
+{
+    color:orange;
+}
+.navbar
+{
+    border:transparent;
+}
+.styling
+
+{
+    font-size: 30px;
+    color:white;
+    margin-left: 300px;
+    text-align: left;
+    color:white;
+    
+
+}
+a
+{
+    color:white;
+    text-align: center;
+    
+}
+#intro 
+{
+    background:url(../../me.jpg) no-repeat fixed;
+    height:100%;
+    width: 100%;
+        -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+    position: relative;
+}
+.image
+{
+    width:400px;
+    height:400px;
+    background-color:red;
+}
+.text-center
+{
+    text-align: center;
+    font-family: cursive;
+    vertical-align: middle;
+    padding:45px;
+}
+    
+	
+}
+.text-different
+{   
+    font-family: sans-serif;
+    font-family: cursive;
+}
